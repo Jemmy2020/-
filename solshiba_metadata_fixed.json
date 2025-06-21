@@ -1,0 +1,37 @@
+{
+  "name": "SOLSHIBA",
+  "symbol": "SSHIBA",
+  "description": "SOLSHIBA is a fun and community-driven meme coin born on the Solana blockchain. Woof woof!",
+  "image": "https://raw.githubusercontent.com/Jemmy2020/memecoin-solshiba/main/logo.png",
+  "external_url": "https://solshiba.vercel.app",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana"
+    }
+  ],
+  "collection": {
+    "name": "Solana Meme Coin",
+    "family": "SOLSHIBA"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Jemmy2020/memecoin-solshiba/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "As3y66UeZeKpN7H6iUUNV76anxHKL3ySdYAH2YLCVo2X",
+        "share": 100
+      }
+    ]
+  }
+}
